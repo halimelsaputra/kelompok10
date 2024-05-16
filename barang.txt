@@ -1,0 +1,4 @@
+cerutu,8,10000.00
+rinso,12,17000.00
+minyak goreng,20,28000.00
+sabun cuci piring,15,14000.00
